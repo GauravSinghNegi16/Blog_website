@@ -7,7 +7,7 @@ This project allows users to read, search, and comment on blogs while providing 
 
 ## 🚀 Live Demo  
 🔗 **Frontend:** [https://blog-website-peach-nine.vercel.app/](https://blog-website-peach-nine.vercel.app/)  
-🔗 **Backend (API):** [Your Render Backend URL]  
+🔗 **Backend (API):** [https://blog-website-server-kp30.onrender.com]  
 
 ---
 
