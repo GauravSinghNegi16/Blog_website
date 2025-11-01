@@ -27,7 +27,7 @@ This project allows users to read, search, and comment on blogs while providing 
 - ☁️ Render for backend hosting  
 
 ### 🤖 AI Integration  
-- Integrated **AI Content Generator** using OpenAI API (or similar).  
+- Integrated **AI Content Generator** using **Google Gemini**.  
 - Generates blog ideas, outlines, and full-length posts directly from the admin panel.  
 
 ---
